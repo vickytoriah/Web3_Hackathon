@@ -86,4 +86,7 @@ semantics_accuracy_backtest is a instruction, backtests the accuracy level of th
 
 
 ```
+Diagramatic representation of the Anchor Model:
+![img.png](img.png)
+
 Link to Design and Demo Usage: 
