@@ -55,5 +55,15 @@ We will break down the program into several components:
 - Tests: TypeScript-based tests for each instruction.
 - SDK: A TypeScript SDK to interact with the Anchor program.
 
+Conclusion
+With this structure:
+
+Accounts are defined in state.rs.
+
+Instructions are modularized in separate files within the instructions folder.
+
+Tests are organized into TypeScript files in the tests folder.
+
+SDK code provides functions to interact with the Solana program from TypeScript.
 
 </details>
